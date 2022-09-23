@@ -1,0 +1,34 @@
+
+*{ font-family: sans-serif; 
+    background-color: pink;
+}
+
+#formulario{
+display: flex; flex-direction: column;
+border: 1px solid aquamarine;
+width: 260px;
+height: 205px; margin: 5px;
+background-color: lightpink ;
+}
+
+#formulario label{
+background-color: lightcoral ;
+}
+
+.textO{
+background-color: grey ;
+
+}
+
+#botones{
+background-color: lightcoral ;
+}
+
+#btnSubmit, #btnMostrar{
+margin-top: 25px; 
+width: 90px; 
+height: 30px;
+}
+
+#cajaPrincipal{
+}
